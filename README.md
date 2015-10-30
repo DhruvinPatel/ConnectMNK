@@ -1,4 +1,4 @@
-The player corresponds to connect N-M-K game. 
+The player corresponds to connect N-M-K game. Try beating it!
 
 Connect N-M-K game:
 In the game of Connect Four two players compete to make a consecutive series of four of the same color. For eg. The board is a vertical 6x7(6 rows and 7 columns i.e. N=6, M = 7) board. The players alternate turns and 
